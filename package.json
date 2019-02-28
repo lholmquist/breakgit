@@ -1,0 +1,19 @@
+{
+  "name": "breakgit",
+  "version": "1.0.0",
+  "description": "Break git on OpenShift",
+  "main": "index.js",
+  "scripts": {
+    "start": "git clone https://github.com/kubernetes/community"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redallen/breakgit.git"
+  },
+  "author": "redallen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redallen/breakgit/issues"
+  },
+  "homepage": "https://github.com/redallen/breakgit#readme"
+}
